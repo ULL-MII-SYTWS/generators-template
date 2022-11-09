@@ -3,7 +3,9 @@
 Read, reproduce and understand the 
 examples, exercises, ideas and concepts introduced in the chapter [Generators](https://javascript.info/generators) of the 
 [The Modern JavaScript Tutorial book](https://javascript.info/).
-See the lab [generators](https://ull-mii-sytws.github.io/practicas/generators.html) for the full description.
+See the lab [generators](https://ull-mii-sytws.github.io/practicas/generators.html) for the full description of what to do.
+
+Fill the dots and the missing code.
 
 ### Ejemplo 1: Generator Functions
 
