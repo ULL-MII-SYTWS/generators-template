@@ -1,7 +1,8 @@
 # Práctica Generators in JS
 
-Read, reproduce and understand then examples, exercises and concepts introduced in the chapter [generators](https://javascript.info/generators) of the 
-[javascript.info book](https://javascript.info/).
+Read, reproduce and understand the 
+examples, exercises, ideas and concepts introduced in the chapter [Generators](https://javascript.info/generators) of the 
+[The Modern JavaScript Tutorial book](https://javascript.info/).
 See the lab [generators](https://ull-mii-sytws.github.io/practicas/generators.html) for the full description.
 
 ### Ejemplo 1: Generator Functions
