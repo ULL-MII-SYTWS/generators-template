@@ -9,3 +9,4 @@ const g = gen()
 
 console.log(g.next(1))
 console.log(g.next(2))
+console.log(g.next(3))
