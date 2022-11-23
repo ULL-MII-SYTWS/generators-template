@@ -10,11 +10,8 @@ function * bar () {
 const f = foo()
 const b = bar()
 
-console.log(
-  f.next(),
-  f.next())
+console.log(f.next())
+console.log(f.next())
 
-console.log(
-  b.next(),
-  b.next()
-)
+console.log(b.next())
+console.log(b.next())
