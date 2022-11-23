@@ -12,7 +12,9 @@ const b = bar()
 
 console.log(
   f.next(),
-  f.next(),
+  f.next())
+
+console.log(
   b.next(),
   b.next()
 )
