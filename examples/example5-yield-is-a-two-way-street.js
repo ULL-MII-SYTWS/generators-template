@@ -1,3 +1,4 @@
+// Section a = yield exp submits exp and receives the b of the next g.next(b)
 // What is the output?
 function * generator (z) {
   console.log(z)
